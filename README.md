@@ -39,17 +39,6 @@ python3 locale.py -l ja locale.txt
 python3 locale.py -v
 ```
 
----
-
-## 👤 Student Information
-
-- **Name**: Emi Sekikawa  
-- **Student ID**: 14507608  
-- **Date of Completion**: 17 May 2024  
-- **Subject**: UNIX Systems Programming  
-
----
-
 ## 📌 Notes
 
 - The input file must be in comma-separated (CSV) format.
